@@ -10,6 +10,15 @@ I'm a senior student from Nanjing University, majoring in software engineering. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huyuling0816&layout=compact&theme=dracula)](https://github.com/huyuling0816/github-readme-stats)
 
+### In 2023, I'm doing...
+
+| Course/Intership          | Project | Brief                                                    |
+| ------------------------- | ------- | -------------------------------------------------------- |
+| Hundsun Technologies Inc. |         | Participating in the development of an OMS system, which |
+|                           |         |                                                          |
+|                           |         |                                                          |
+
+
 <!--
 **huyuling0816/huyuling0816** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
