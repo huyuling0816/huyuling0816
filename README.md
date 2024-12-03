@@ -14,7 +14,7 @@ I'm a senior student from Nanjing University, majoring in software engineering. 
 
 | Course/Intership                                             | Project/Lab | Brief                                                        |
 | ------------------------------------------------------------ | ----------- | ------------------------------------------------------------ |
-| `CMU15-445`, **Intro to Database Systems**, Fall 2022        | Bustub[1/4] | Implementing a database kernel with buffer pool manager, B+ tree index, query execution, and concurrency control. |
+| `CMU15-445`, **Intro to Database Systems**, Fall 2022        | Bustub[4/4] | Implementing a database kernel with buffer pool manager, B+ tree index, query execution, and concurrency control. |
 | Hundsun Technologies Inc.                                    |             | Participating in the development of an OMS system, which is based on JRESCloud. |
 | `NJUSE`, **Software Engineering and Computing III**, Spring 2023 |             | An optimized version of the classic *SentiStrength*.         |
 
