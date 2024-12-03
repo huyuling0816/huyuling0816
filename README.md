@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-I'm a senior student from Nanjing University, majoring in software engineering. 👩‍💻
+- 👩‍💻 I'm a graduate student at Carnegie Mellon University, majoring in Information Networking.
+- 🎓 I graduated from Nanjing University in June 2024. During my studies there, I laid a solid foundation in computer science and software engineering.
+- :guitar: I love singing and playing the guitar in my free time.
+- 🐱:dog: I have a lovely British shorthair and a teddy bear dog.
 
 ## Something about me ㊙️
 
